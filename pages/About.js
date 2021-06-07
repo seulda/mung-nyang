@@ -29,7 +29,7 @@ export default function About({navigation,route}) {
     return (
         <View style={styles.container}>
             <StatusBar style="black" />
-            <Text style={styles.title}>Wellcome "멍냥이랑"</Text>
+            <Text style={styles.title}>Wellcome  "멍냥이랑"</Text>
 
             <View style={styles.textContainer}>
                 <Image style={styles.aboutImage} source={main} resizeMode={"cover"} />
