@@ -3,4 +3,5 @@
 
 <br>
 
-<img width="20%" src="https://user-images.githubusercontent.com/57322002/133888650-d25a66b8-c332-4c5a-bd78-c0a87fcf4696.gif"/>
+<img src="https://user-images.githubusercontent.com/57322002/135717549-59963fd7-20ca-4ecd-a472-29b5eeadde5f.gif"/>
+
