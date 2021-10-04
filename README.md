@@ -1,5 +1,5 @@
 # mung-nyang
-멍냥이랑 토이 프로젝트 (중단)
+멍냥이랑 React Native Project (중단)
 
 <br>
 
